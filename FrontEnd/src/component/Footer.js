@@ -80,7 +80,7 @@ function Footer() {
                 <br></br>
                 <a href="#">
                   <strong className="text-warning">
-                    Heaven Creations CDAC Mumbai
+                    Heaven Creations CDAC
                   </strong>
                 </a>
               </p>
